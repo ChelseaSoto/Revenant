@@ -28,8 +28,8 @@ Version: 1.0.0
    - Level 1: Solve the sphere puzzle by pressing "Interact" near the sphere you want to activate, they are in the order of ABC.
      The code to unlock the door is also ABC.
      If done right, the door will glow and you can use the door to go to Level 2.
-   - Level 2: You can lock onto the dummies by pressing down on the right analog stick or tab.
-     You can switch which enemy you are locking onto using "J" or "K" on the keyboard or move the right analog stick left or right to switch targets.
+   - Level 2: You can lock onto the dummies.
+     You can switch which enemy you are locking onto.
      To the right of the dummies is a companion that you stand near and have them guide you along their path. There is a laser puzzle evident by the yellow light.
      You can reflect that laser and even use "Q" or RT to summon your own.
      
