@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{07B1EB89-4347-DD51-12FC-78AD2A6C0595}",
+	"EngineAssociation": "{695D1528-4DF9-C5D5-7061-0897BE15E2A0}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -21,6 +21,10 @@
 		},
 		{
 			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
 			"Enabled": true
 		}
 	]
